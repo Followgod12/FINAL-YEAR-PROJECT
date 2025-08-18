@@ -1,0 +1,51 @@
+# ================================
+# PHP + MySQL Project .gitignore
+# ================================
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.db
+*.bak
+*.tmp
+*.swp
+
+# PHP specific
+*.pid
+*.seed
+*.session
+*.cache
+
+# Composer / Dependencies
+/vendor/
+/composer.lock
+
+# Node.js (if used in frontend)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment and config files
+.env
+.env.local
+.env.*.local
+config.php
+db_connect.php   # ⚠️ If it contains sensitive DB credentials, better not upload
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# XAMPP specific
+htdocs/phpmyadmin/
+xampp-control.ini
