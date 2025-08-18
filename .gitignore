@@ -50,5 +50,3 @@ db_connect.php   # ⚠️ If it contains sensitive DB credentials, better not up
 htdocs/phpmyadmin/
 xampp-control.ini
 
-# Database Connection
-db_connect.php
